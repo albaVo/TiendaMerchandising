@@ -1,0 +1,6 @@
+export * from './Datatable'
+export * from './DatatableProductos'
+export * from './DatatableClientes'
+export * from './DatatablePedidos'
+export * from './DatatableCategorias'
+export * from './DatatableProveedores'
